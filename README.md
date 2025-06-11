@@ -83,12 +83,6 @@ npm run dev
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## ✨ Built With
 
 - [Axum](https://docs.rs/axum/latest/axum/)
